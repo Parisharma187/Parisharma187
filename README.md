@@ -1,6 +1,6 @@
 ## Hey there! I'm Pari👋
 🌸 A CS student exploring the world of code
-💻 Passionate about web dev, C programming & creativity
+💻 Passionate about web dev
 🍀 Always learning something new
 🛠️ Currently working on web development & C programming tutorials
 📍Let's build something amazing!
